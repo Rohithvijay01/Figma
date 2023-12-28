@@ -228,7 +228,7 @@ color: white;
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (36).png>)
+![Alt text](<Screenshot (37).png>)
 
 
 
